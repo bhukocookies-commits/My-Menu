@@ -1,0 +1,11 @@
+id,name,category,description,price,image,available,featured
+1,Strawberry Shortcake Cookie,weekly,"A cakey cookie topped with silky whipped cream, fresh chopped strawberries, and house-made strawberry jam.",4.75,https://images.unsplash.com/photo-1587668178277-295251f900ce?w=800,TRUE,TRUE
+2,Cinnamon Roll Cookie,weekly,"A vanilla sugar cookie topped with cinnamon streusel and swirled with vanilla cream cheese frosting.",4.50,https://images.unsplash.com/photo-1509365465985-25d11c17e812?w=800,TRUE,TRUE
+3,Brown Butter Chocolate Chip,weekly,"Toasted brown butter, dark chocolate chunks, and a sprinkle of flaky sea salt. Our bakery's love letter to the classic.",4.25,https://images.unsplash.com/photo-1499636136210-6f4ee915583e?w=800,TRUE,TRUE
+4,Lemon Lavender Cake,weekly,"Tender lemon cake infused with local lavender and finished with a sweet citrus glaze. Perfect for afternoon tea.",18.00,https://images.unsplash.com/photo-1519915028121-7d3463d20b13?w=800,TRUE,TRUE
+5,Milk Chocolate Chip Cookie,classic,"Our classic milk chocolate chip cookie — baked thick, soft, and satisfying. Always a crowd favorite.",3.75,https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=800,TRUE,FALSE
+6,Pink Sugar Cookie,classic,"Our signature almond sugar cookie topped with a silky pink swoop of real almond frosting.",4.00,https://images.unsplash.com/photo-1464195244916-405fa0a82545?w=800,TRUE,FALSE
+7,Cookies & Cream Cookie,classic,"A warm chocolate cookie mixed with cookies & cream pieces, topped with smooth vanilla cream cheese frosting.",4.25,https://images.unsplash.com/photo-1548365328-9f547fb09530?w=800,TRUE,FALSE
+8,Chocolate Fudge Brownie,classic,"Dense, fudgy, absolutely ridiculous. Made with premium Valrhona cocoa and chocolate chunks.",4.50,https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=800,TRUE,FALSE
+9,Celebration Cake Cookie,classic,"A fluffy cake batter cookie with cake batter cream cheese frosting and a splash of rainbow sprinkles.",4.25,https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=800,TRUE,FALSE
+10,Snickerdoodle Cookie,classic,"A classic vanilla sugar cookie rolled in a sparkly cinnamon sugar coating. Warm and cozy.",3.75,https://images.unsplash.com/photo-1568571780765-9276ac8b75a2?w=800,TRUE,FALSE
