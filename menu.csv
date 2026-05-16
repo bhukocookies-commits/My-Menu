@@ -5,7 +5,7 @@ id,name,category,description,price,image,available,featured
 4,Pistacio Creme Cookie,made to order,"A soft pistachio pudding cookie with white cream frosting, garnished with pistachio crumbs.",3.5,https://images.unsplash.com/photo-1519915028121-7d3463d20b13?w=800,TRUE,TRUE
 5,Pina Colada Cookie,made to order,"A pineapple flavored cookie topped with white frosting, dried pineapple pieces and shredded coconut.",4.5,https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=800,TRUE,TRUE
 6,Masala Chai Cookie,made to order,"A chai masala blend infused cookie, topped with white frosting and garnished with cinnamon sticks and star anise pods.",4,https://images.unsplash.com/photo-1464195244916-405fa0a82545?w=800,TRUE,TRUE
-7,,classic,"A warm chocolate cookie mixed with cookies & cream pieces, topped with smooth vanilla cream cheese frosting.",4.25,https://images.unsplash.com/photo-1548365328-9f547fb09530?w=800,TRUE,FALSE
+7,Cookies & Cream Cookie,classic,"A warm chocolate cookie mixed with cookies & cream pieces, topped with smooth vanilla cream cheese frosting.",4.25,https://images.unsplash.com/photo-1548365328-9f547fb09530?w=800,TRUE,FALSE
 8,Peanutella Biscoff Cookie,made to order,A simple peanut butter cookie with not-so-simple toppings of nutella and biscoff.,4.5,https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=800,TRUE,TRUE
 9,Celebration Cookie,made to order,A fluffy sugar cookie topped with white frosting and sprinkled with various colored sprinkles.,3.5,https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=800,TRUE,TRUE
-10,,classic,A classic vanilla sugar cookie rolled in a sparkly cinnamon sugar coating. Warm and cozy.,3.75,https://images.unsplash.com/photo-1568571780765-9276ac8b75a2?w=800,TRUE,FALSE
+10,Cinnamon Sugar Cookie,classic,A classic vanilla sugar cookie rolled in a sparkly cinnamon sugar coating. Warm and cozy.,3.75,https://images.unsplash.com/photo-1568571780765-9276ac8b75a2?w=800,TRUE,FALSE
